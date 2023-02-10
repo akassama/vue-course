@@ -1,0 +1,15 @@
+.box{
+  background-color: blueviolet;
+  height: 200px;
+  width: 200px;
+}
+.box.two{
+  background-color: red;
+}
+.box.three{
+  background-color: blue;
+}
+
+[v-cloak]{
+  display: none;
+}
